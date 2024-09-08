@@ -5,3 +5,8 @@ Artificial intelligence is not used in this version yet, but it will be added in
 <br> Its look like
 ![EA2](https://github.com/user-attachments/assets/3282a2b6-1ed8-4029-bbde-a0a0bd4bcab8)
 Here, the "Energy" part actually falls into the subject of "light", which we know from physics. If you want to learn more, you can examine the "engine.py" file.
+# Version 2
+Its look like
+![Version 2](https://github.com/user-attachments/assets/77af43d9-e604-43f6-8875-7e096e89ccaa)
+TA-DA !  this version have a robot, robot is not needed a light of powers. <br>
+This version have a new Randomise class, if you're can examine the "Randomise_Numbers/...", you learn Randomise class
