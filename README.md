@@ -10,3 +10,7 @@ Its look like
 ![Version 2](https://github.com/user-attachments/assets/77af43d9-e604-43f6-8875-7e096e89ccaa)
 TA-DA !  this version have a robot, robot is not needed a light of powers. <br>
 This version have a new Randomise class, if you're can examine the "Randomise_Numbers/...", you learn Randomise class
+# Version 3
+![Version 3](https://github.com/user-attachments/assets/c366e579-25ab-40ea-a602-95a328bda055)
+In this version, it has been improved by using different functions so that randomness does not repeat itself anymore. <br>
+If you want to examine this randomness, you can examine the codes and photos of the folder named "InvSqr".
